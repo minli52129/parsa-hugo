@@ -27,4 +27,5 @@ fields:
   default: post
   description: 'type: post or featured'
 pages:
+- exampleSite/content/你飞翔在.md
 - exampleSite/content/保险测试.md
